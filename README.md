@@ -1,3 +1,4 @@
+
 # Kde-Player
 An cool player for kde
 <div align="center">
@@ -32,4 +33,8 @@ An cool player for kde
 <img width="275" height="400" alt="изображение" src="https://github.com/user-attachments/assets/b3c171dd-256e-434e-b0f8-ccdce0c06e21" />
 <img width="273" height="400" alt="изображение" src="https://github.com/user-attachments/assets/44486115-7fb8-42a2-984e-9efef6baec0c" />
 <img width="272" height="399" alt="изображение" src="https://github.com/user-attachments/assets/813de66b-b151-44ca-8e95-51f25c772a47" />
+<img width="271" height="396" alt="Запись экрана_20260918_233656(1)" src="https://github.com/user-attachments/assets/b64709cf-2021-4f2a-a242-17c1a51b95d2" />
+
+
+
 
