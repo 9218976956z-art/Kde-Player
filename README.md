@@ -1,6 +1,4 @@
 
-# kde-Player
-A cool player for kde
 <div align="center">
 
 # 🎵 Material 3 Expressive Media Player
